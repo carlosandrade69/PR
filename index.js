@@ -1,5 +1,5 @@
 // Función para transformar el nombre a mayúsculas y mostrarlo en el elemento con ID "data"
-function mostrarNombre(nombre) {
+function mostrarNombre(Carlox) {
     document.getElementById("data").innerHTML = nombre.toUpperCase();
 }
 
